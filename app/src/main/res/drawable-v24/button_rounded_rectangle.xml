@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--按压时状态-->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/selected_btn_bg"/>
+            <corners android:radius="100dp"/>
+        </shape>
+    </item>
+
+    <!--按压前状态-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/normal_btn_bg"/>
+            <corners android:radius="100dp"/>
+        </shape>
+    </item>
+</selector>

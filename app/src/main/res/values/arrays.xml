@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode_type">
+        <item>3*3</item>
+        <item>4*4</item>
+        <item>5*5</item>
+        <item>6*6</item>
+        <item>7*7</item>
+        <item>8*8</item>
+        <item>选择难度</item>
+
+    </string-array>
+
+    <string-array name="selectImg">
+        <item>从图库选图</item>
+        <item>拍一张图片</item>
+        <item>游戏提供图片</item>
+        <item>必应每日一图</item>
+        <item>选择图片，功能未完成，任选一个</item>
+
+    </string-array>
+</resources>
